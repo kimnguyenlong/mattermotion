@@ -1,2 +1,2 @@
 # mattermotion
-Matter and motion visualization
+Matter and Motion visualization
