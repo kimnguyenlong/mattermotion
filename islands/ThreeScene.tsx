@@ -1,5 +1,5 @@
 import { useEffect } from "preact/hooks";
-import * as THREE from "npm:three";
+import * as THREE from "three";
 
 export default function ThreeScene() {
   useEffect(() => {
