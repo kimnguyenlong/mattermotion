@@ -27,7 +27,8 @@
     "@preact/signals": "https://esm.sh/*@preact/signals@1.2.2",
     "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.5.1",
     "$std/": "https://deno.land/std@0.216.0/",
-    "three": "https://esm.sh/three@0.178.0"
+    "three": "https://esm.sh/three@0.178.0",
+    "OrbitControls":"https://esm.sh/three@0.150.1/examples/jsm/controls/OrbitControls"
   },
   "compilerOptions": {
     "jsx": "react-jsx",
