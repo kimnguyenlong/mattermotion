@@ -1,9 +1,9 @@
-import ThreeScene from "../islands/ThreeScene.tsx";
+import SolarSystem from "../islands/SolarSystem.tsx";
 
 export default function Home() {
   return (
     <>
-      <ThreeScene />
+      <SolarSystem />
     </>
   );
 }

@@ -1,5 +1,5 @@
 import { useEffect } from "preact/hooks";
-import * as THREE from "https://esm.sh/three@0.150.1";
+import * as THREE from "three";
 import { OrbitControls } from "OrbitControls";
 
 export default function ThreeScene() {
